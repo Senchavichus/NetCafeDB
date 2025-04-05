@@ -1,0 +1,16 @@
+INSERT INTO net_cafe.client (first_name, second_name, email, phone_number, birth_date) VALUES
+  ('Алексей', 'Смирнов', 'aleksey.smirnov@example.com', '111-222-3333', '1985-05-10'),
+  ('Иван', 'Петров', 'ivan.petrov@example.com', '111-222-3334', NULL),
+  ('Сергей', 'Сидоров', 'sergey.sidorov@example.com', '111-222-3335', '1988-09-20'),
+  ('Дмитрий', 'Козлов', 'dmitry.kozlov@example.com', '111-222-3336', '1992-11-05'),
+  ('Михаил', 'Новиков', 'mikhail.novikov@example.com', '111-222-3337', NULL),
+  ('Николай', 'Федоров', 'nikolay.fedorov@example.com', '111-222-3338', '1991-12-12'),
+  ('Андрей', 'Васильев', 'andrey.vasiliev@example.com', '111-222-3339', '1986-08-30'),
+  ('Павел', 'Морозов', 'pavel.morozov@example.com', '111-222-3340', NULL),
+  ('Владимир', 'Лебедев', 'vladimir.lebedev@example.com', '111-222-3341', '1989-04-14'),
+  ('Евгений', 'Крылов', 'evgeny.krylov@example.com', '111-222-3342', '1990-10-03'),
+  ('Станислав', 'Иванов', 'stanislav.ivanov@example.com', '111-222-3343', '1988-06-18'),
+  ('Руслан', 'Соколов', 'ruslan.sokolov@example.com', '111-222-3344', NULL),
+  ('Константин', 'Орлов', 'konstantin.orlov@example.com', '111-222-3345', '1987-11-11'),
+  ('Виктор', 'Мельников', 'viktor.melnikov@example.com', '111-222-3346', '1986-02-02'),
+  ('Григорий', 'Николаев', 'grigory.nikolaev@example.com', '111-222-3347', '1992-03-03');
